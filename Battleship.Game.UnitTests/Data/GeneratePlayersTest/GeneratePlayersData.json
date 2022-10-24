@@ -1,0 +1,57 @@
+[
+  {
+    "input": {
+      "boardWidth": 10,
+      "boardHeight": 10,
+      "noOfComputerPlayers": 2
+    },
+    "output": [
+      {
+        "isComputer": true,
+        "board": {
+          "dimension": {
+            "width": 10,
+            "height": 10
+          }
+        }
+      },
+      {
+        "isComputer": true,
+        "board": {
+          "dimension": {
+            "width": 10,
+            "height": 10
+          }
+        }
+      }
+    ]
+  },
+  {
+    "input": {
+      "boardWidth": 5,
+      "boardHeight": 5,
+      "noOfComputerPlayers": 1
+    },
+    "output": [
+      {
+        "isComputer": true,
+        "board": {
+          "dimension": {
+            "width": 5,
+            "height": 5
+          }
+        }
+      },
+      {
+        "isComputer": false,
+        "board": {
+          "dimension": {
+            "width": 5,
+            "height": 5
+          }
+        }
+      }
+    ]
+  }
+]
+

@@ -1,0 +1,32 @@
+﻿Player
+Board
+Ship
+Dice
+
+Responsiblities
+	+ GameService
+		Players
+		Board	
+	
+	+ Board
+		ArrangeShips
+		IsValidBoard
+		HitOrMiss
+
+	+ Player
+		Play
+
+	+ Ship
+		Dimensions
+		HitsConsumed
+		IsSunk()
+
+	+ Cell
+		Row
+		Col
+		State
+		Ship
+
+	+ Dice
+		Roll
+		

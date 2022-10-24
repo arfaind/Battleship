@@ -1,0 +1,12 @@
+C:\LocalRepos\Battleship.Game\Battleship.Game.Contracts\obj\Debug\net5.0\Battleship.Game.Contracts.csproj.AssemblyReference.cache
+C:\LocalRepos\Battleship.Game\Battleship.Game.Contracts\obj\Debug\net5.0\Battleship.Game.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalRepos\Battleship.Game\Battleship.Game.Contracts\obj\Debug\net5.0\Battleship.Game.Contracts.AssemblyInfoInputs.cache
+C:\LocalRepos\Battleship.Game\Battleship.Game.Contracts\obj\Debug\net5.0\Battleship.Game.Contracts.AssemblyInfo.cs
+C:\LocalRepos\Battleship.Game\Battleship.Game.Contracts\obj\Debug\net5.0\Battleship.Game.Contracts.csproj.CoreCompileInputs.cache
+C:\LocalRepos\Battleship.Game\Battleship.Game.Contracts\bin\Debug\net5.0\Battleship.Game.Contracts.deps.json
+C:\LocalRepos\Battleship.Game\Battleship.Game.Contracts\bin\Debug\net5.0\Battleship.Game.Contracts.dll
+C:\LocalRepos\Battleship.Game\Battleship.Game.Contracts\bin\Debug\net5.0\Battleship.Game.Contracts.pdb
+C:\LocalRepos\Battleship.Game\Battleship.Game.Contracts\obj\Debug\net5.0\Battleship.Game.Contracts.dll
+C:\LocalRepos\Battleship.Game\Battleship.Game.Contracts\obj\Debug\net5.0\refint\Battleship.Game.Contracts.dll
+C:\LocalRepos\Battleship.Game\Battleship.Game.Contracts\obj\Debug\net5.0\Battleship.Game.Contracts.pdb
+C:\LocalRepos\Battleship.Game\Battleship.Game.Contracts\obj\Debug\net5.0\ref\Battleship.Game.Contracts.dll

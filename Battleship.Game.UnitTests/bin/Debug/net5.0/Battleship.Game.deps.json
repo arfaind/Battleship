@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Battleship.Game/1.0.0": {
+        "dependencies": {
+          "Battleship.Game.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "Battleship.Game.dll": {}
+        }
+      },
+      "Battleship.Game.Contracts/1.0.0": {
+        "runtime": {
+          "Battleship.Game.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Battleship.Game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Battleship.Game.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

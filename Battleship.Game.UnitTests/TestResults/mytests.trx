@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="1f78efd3-75e9-446d-8ce5-f9952a30b1cc" name="MDudhwala@ZTD-PF3T81GP 2022-10-24 21:04:05" runUser="AFFINIONDS\MDudhwala" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2022-10-24T21:04:05.3989514+05:30" queuing="2022-10-24T21:04:05.3989518+05:30" start="2022-10-24T21:04:04.4784942+05:30" finish="2022-10-24T21:04:05.4454160+05:30" />
+  <TestSettings name="default" id="48362a33-cc20-4cff-a7ee-2cc3acc01460">
+    <Deployment runDeploymentRoot="MDudhwala_ZTD-PF3T81GP_2022-10-24_21_04_05" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="47428f9a-168b-44ee-b462-adf9ef0bb854" testId="a23b5db0-f7ce-31ec-569e-e468a5b150e2" testName="Battleship.Game.UnitTests.GameServiceTests.ArrangeShipsFailedTest" computerName="ZTD-PF3T81GP" duration="00:00:00.0521135" startTime="2022-10-24T21:04:05.3523456+05:30" endTime="2022-10-24T21:04:05.3524107+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="47428f9a-168b-44ee-b462-adf9ef0bb854" />
+    <UnitTestResult executionId="312b62d5-b507-4ac8-9fd1-699dd4e4d201" testId="2cb59c68-7478-a303-7be7-6262abafaaac" testName="Battleship.Game.UnitTests.PlayerServiceTests.GeneratePlayersTest(input: GeneratePlayersInputModel { BoardHeight = 10, BoardWidth = 10, NoOfComputerPlayers = 2 }, expectedPlayers: [Player { Board = Board { ... }, Id = null, IsComputer = True }, Player { Board = Board { ... }, Id = null, IsComputer = True }])" computerName="ZTD-PF3T81GP" duration="00:00:00.0006014" startTime="2022-10-24T21:04:05.3555089+05:30" endTime="2022-10-24T21:04:05.3555089+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="312b62d5-b507-4ac8-9fd1-699dd4e4d201" />
+    <UnitTestResult executionId="62b8f9d1-d41a-4b29-a548-850d8baa69ef" testId="6398c821-7922-4f12-de3a-3f4b603c031b" testName="Battleship.Game.UnitTests.GameServiceTests.ArrangeShipsFailedTest2" computerName="ZTD-PF3T81GP" duration="00:00:00.0048673" startTime="2022-10-24T21:04:05.3574566+05:30" endTime="2022-10-24T21:04:05.3574572+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="62b8f9d1-d41a-4b29-a548-850d8baa69ef" />
+    <UnitTestResult executionId="c0b1fd99-b914-4a93-8f42-43dc72cce179" testId="2cb59c68-7478-a303-7be7-6262abafaaac" testName="Battleship.Game.UnitTests.PlayerServiceTests.GeneratePlayersTest(input: GeneratePlayersInputModel { BoardHeight = 5, BoardWidth = 5, NoOfComputerPlayers = 1 }, expectedPlayers: [Player { Board = Board { ... }, Id = null, IsComputer = True }, Player { Board = Board { ... }, Id = null, IsComputer = False }])" computerName="ZTD-PF3T81GP" duration="00:00:00.0000525" startTime="2022-10-24T21:04:05.3555174+05:30" endTime="2022-10-24T21:04:05.3555175+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c0b1fd99-b914-4a93-8f42-43dc72cce179" />
+    <UnitTestResult executionId="0c66e619-deb6-4191-9dd2-d596e5e2064d" testId="e0e96b94-b9c2-be40-153a-cce31f1033a5" testName="Battleship.Game.UnitTests.PlayerServiceTests.PlayTest" computerName="ZTD-PF3T81GP" duration="00:00:00.0530683" startTime="2022-10-24T21:04:05.3554874+05:30" endTime="2022-10-24T21:04:05.3554874+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0c66e619-deb6-4191-9dd2-d596e5e2064d" />
+    <UnitTestResult executionId="de9888cc-ba72-4a39-b57d-749604031d07" testId="6990fcd4-5836-7764-7d74-40832d58923c" testName="Battleship.Game.UnitTests.GameServiceTests.StartPlayTest" computerName="ZTD-PF3T81GP" duration="00:00:00.0007749" startTime="2022-10-24T21:04:05.3756091+05:30" endTime="2022-10-24T21:04:05.3756095+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="de9888cc-ba72-4a39-b57d-749604031d07" />
+    <UnitTestResult executionId="225a84c0-a76f-420f-b37d-09e40315c8cb" testId="520a7f11-2718-cec4-c323-dd6831ade5b0" testName="Battleship.Game.UnitTests.UtilServiceTests.ReceiveInputTest(input: Dimension { Height = 10, Width = 10 }, expectedOutput: Cell { Col = 1, Row = 1, Ship = null, State = Empty })" computerName="ZTD-PF3T81GP" duration="00:00:00.0550333" startTime="2022-10-24T21:04:05.3554760+05:30" endTime="2022-10-24T21:04:05.3554761+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="225a84c0-a76f-420f-b37d-09e40315c8cb" />
+    <UnitTestResult executionId="acae76ea-53d6-4cb3-bdae-5fcdf3eb4e53" testId="f78f14b6-cc7e-3135-7995-33336d831938" testName="Battleship.Game.UnitTests.GameServiceTests.StartPlayFailedTest" computerName="ZTD-PF3T81GP" duration="00:00:00.0003590" startTime="2022-10-24T21:04:05.3756377+05:30" endTime="2022-10-24T21:04:05.3756378+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="acae76ea-53d6-4cb3-bdae-5fcdf3eb4e53" />
+    <UnitTestResult executionId="6162c7b4-5efc-4ea4-8cf8-c73d754946ab" testId="abc5ed00-3847-fb7a-98dc-c02e080e46a3" testName="Battleship.Game.UnitTests.GameServiceTests.ArrangeShipsTest" computerName="ZTD-PF3T81GP" duration="00:00:00.0004715" startTime="2022-10-24T21:04:05.3756550+05:30" endTime="2022-10-24T21:04:05.3756551+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6162c7b4-5efc-4ea4-8cf8-c73d754946ab" />
+    <UnitTestResult executionId="ef76b99a-7232-4f22-b842-568769bf3458" testId="aedabcf3-a7b5-70ad-9eaa-c1277838f433" testName="Battleship.Game.UnitTests.GameServiceTests.SetupGameTest(width: 3, height: 3, computerPlayers: 1)" computerName="ZTD-PF3T81GP" duration="00:00:00.0006958" startTime="2022-10-24T21:04:05.3554293+05:30" endTime="2022-10-24T21:04:05.3554297+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ef76b99a-7232-4f22-b842-568769bf3458" />
+    <UnitTestResult executionId="657bdd0d-4196-4f3a-b648-8596cf32c5b0" testId="a0927f17-e2ec-c0ad-a96c-96e6a936a897" testName="Battleship.Game.UnitTests.UtilServiceTests.RandomPositionTest(input: [Cell { Col = 1, Row = 0, Ship = null, State = Empty }, Cell { Col = 0, Row = 1, Ship = null, State = Empty }], expectedOutput: Cell { Col = 0, Row = 1, Ship = null, State = Empty })" computerName="ZTD-PF3T81GP" duration="00:00:00.0011842" startTime="2022-10-24T21:04:05.3555732+05:30" endTime="2022-10-24T21:04:05.3555733+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="657bdd0d-4196-4f3a-b648-8596cf32c5b0" />
+    <UnitTestResult executionId="c4f12345-268f-4b7b-a4b5-fd47ced7c03f" testId="57c4f37c-a472-52d0-4a18-594f271a4d3c" testName="Battleship.Game.UnitTests.GameServiceTests.SetupGameTest(width: 3, height: 3, computerPlayers: 2)" computerName="ZTD-PF3T81GP" duration="00:00:00.0002062" startTime="2022-10-24T21:04:05.3554606+05:30" endTime="2022-10-24T21:04:05.3554606+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c4f12345-268f-4b7b-a4b5-fd47ced7c03f" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="Battleship.Game.UnitTests.GameServiceTests.SetupGameTest(width: 3, height: 3, computerPlayers: 2)" storage="c:\localrepos\battleship.game\battleship.game.unittests\bin\debug\net5.0\battleship.game.unittests.dll" id="57c4f37c-a472-52d0-4a18-594f271a4d3c">
+      <Execution id="c4f12345-268f-4b7b-a4b5-fd47ced7c03f" />
+      <TestMethod codeBase="C:\LocalRepos\Battleship.Game\Battleship.Game.UnitTests\bin\Debug\net5.0\Battleship.Game.UnitTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Battleship.Game.UnitTests.GameServiceTests" name="SetupGameTest" />
+    </UnitTest>
+    <UnitTest name="Battleship.Game.UnitTests.GameServiceTests.SetupGameTest(width: 3, height: 3, computerPlayers: 1)" storage="c:\localrepos\battleship.game\battleship.game.unittests\bin\debug\net5.0\battleship.game.unittests.dll" id="aedabcf3-a7b5-70ad-9eaa-c1277838f433">
+      <Execution id="ef76b99a-7232-4f22-b842-568769bf3458" />
+      <TestMethod codeBase="C:\LocalRepos\Battleship.Game\Battleship.Game.UnitTests\bin\Debug\net5.0\Battleship.Game.UnitTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Battleship.Game.UnitTests.GameServiceTests" name="SetupGameTest" />
+    </UnitTest>
+    <UnitTest name="Battleship.Game.UnitTests.GameServiceTests.ArrangeShipsFailedTest2" storage="c:\localrepos\battleship.game\battleship.game.unittests\bin\debug\net5.0\battleship.game.unittests.dll" id="6398c821-7922-4f12-de3a-3f4b603c031b">
+      <Execution id="62b8f9d1-d41a-4b29-a548-850d8baa69ef" />
+      <TestMethod codeBase="C:\LocalRepos\Battleship.Game\Battleship.Game.UnitTests\bin\Debug\net5.0\Battleship.Game.UnitTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Battleship.Game.UnitTests.GameServiceTests" name="ArrangeShipsFailedTest2" />
+    </UnitTest>
+    <UnitTest name="Battleship.Game.UnitTests.PlayerServiceTests.GeneratePlayersTest" storage="c:\localrepos\battleship.game\battleship.game.unittests\bin\debug\net5.0\battleship.game.unittests.dll" id="2cb59c68-7478-a303-7be7-6262abafaaac">
+      <Execution id="312b62d5-b507-4ac8-9fd1-699dd4e4d201" />
+      <TestMethod codeBase="C:\LocalRepos\Battleship.Game\Battleship.Game.UnitTests\bin\Debug\net5.0\Battleship.Game.UnitTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Battleship.Game.UnitTests.PlayerServiceTests" name="GeneratePlayersTest" />
+    </UnitTest>
+    <UnitTest name="Battleship.Game.UnitTests.GameServiceTests.ArrangeShipsFailedTest" storage="c:\localrepos\battleship.game\battleship.game.unittests\bin\debug\net5.0\battleship.game.unittests.dll" id="a23b5db0-f7ce-31ec-569e-e468a5b150e2">
+      <Execution id="47428f9a-168b-44ee-b462-adf9ef0bb854" />
+      <TestMethod codeBase="C:\LocalRepos\Battleship.Game\Battleship.Game.UnitTests\bin\Debug\net5.0\Battleship.Game.UnitTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Battleship.Game.UnitTests.GameServiceTests" name="ArrangeShipsFailedTest" />
+    </UnitTest>
+    <UnitTest name="Battleship.Game.UnitTests.UtilServiceTests.RandomPositionTest" storage="c:\localrepos\battleship.game\battleship.game.unittests\bin\debug\net5.0\battleship.game.unittests.dll" id="a0927f17-e2ec-c0ad-a96c-96e6a936a897">
+      <Execution id="657bdd0d-4196-4f3a-b648-8596cf32c5b0" />
+      <TestMethod codeBase="C:\LocalRepos\Battleship.Game\Battleship.Game.UnitTests\bin\Debug\net5.0\Battleship.Game.UnitTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Battleship.Game.UnitTests.UtilServiceTests" name="RandomPositionTest" />
+    </UnitTest>
+    <UnitTest name="Battleship.Game.UnitTests.UtilServiceTests.ReceiveInputTest" storage="c:\localrepos\battleship.game\battleship.game.unittests\bin\debug\net5.0\battleship.game.unittests.dll" id="520a7f11-2718-cec4-c323-dd6831ade5b0">
+      <Execution id="225a84c0-a76f-420f-b37d-09e40315c8cb" />
+      <TestMethod codeBase="C:\LocalRepos\Battleship.Game\Battleship.Game.UnitTests\bin\Debug\net5.0\Battleship.Game.UnitTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Battleship.Game.UnitTests.UtilServiceTests" name="ReceiveInputTest" />
+    </UnitTest>
+    <UnitTest name="Battleship.Game.UnitTests.GameServiceTests.StartPlayFailedTest" storage="c:\localrepos\battleship.game\battleship.game.unittests\bin\debug\net5.0\battleship.game.unittests.dll" id="f78f14b6-cc7e-3135-7995-33336d831938">
+      <Execution id="acae76ea-53d6-4cb3-bdae-5fcdf3eb4e53" />
+      <TestMethod codeBase="C:\LocalRepos\Battleship.Game\Battleship.Game.UnitTests\bin\Debug\net5.0\Battleship.Game.UnitTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Battleship.Game.UnitTests.GameServiceTests" name="StartPlayFailedTest" />
+    </UnitTest>
+    <UnitTest name="Battleship.Game.UnitTests.GameServiceTests.StartPlayTest" storage="c:\localrepos\battleship.game\battleship.game.unittests\bin\debug\net5.0\battleship.game.unittests.dll" id="6990fcd4-5836-7764-7d74-40832d58923c">
+      <Execution id="de9888cc-ba72-4a39-b57d-749604031d07" />
+      <TestMethod codeBase="C:\LocalRepos\Battleship.Game\Battleship.Game.UnitTests\bin\Debug\net5.0\Battleship.Game.UnitTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Battleship.Game.UnitTests.GameServiceTests" name="StartPlayTest" />
+    </UnitTest>
+    <UnitTest name="Battleship.Game.UnitTests.GameServiceTests.ArrangeShipsTest" storage="c:\localrepos\battleship.game\battleship.game.unittests\bin\debug\net5.0\battleship.game.unittests.dll" id="abc5ed00-3847-fb7a-98dc-c02e080e46a3">
+      <Execution id="6162c7b4-5efc-4ea4-8cf8-c73d754946ab" />
+      <TestMethod codeBase="C:\LocalRepos\Battleship.Game\Battleship.Game.UnitTests\bin\Debug\net5.0\Battleship.Game.UnitTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Battleship.Game.UnitTests.GameServiceTests" name="ArrangeShipsTest" />
+    </UnitTest>
+    <UnitTest name="Battleship.Game.UnitTests.PlayerServiceTests.PlayTest" storage="c:\localrepos\battleship.game\battleship.game.unittests\bin\debug\net5.0\battleship.game.unittests.dll" id="e0e96b94-b9c2-be40-153a-cce31f1033a5">
+      <Execution id="0c66e619-deb6-4191-9dd2-d596e5e2064d" />
+      <TestMethod codeBase="C:\LocalRepos\Battleship.Game\Battleship.Game.UnitTests\bin\Debug\net5.0\Battleship.Game.UnitTests.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="Battleship.Game.UnitTests.PlayerServiceTests" name="PlayTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="a23b5db0-f7ce-31ec-569e-e468a5b150e2" executionId="47428f9a-168b-44ee-b462-adf9ef0bb854" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2cb59c68-7478-a303-7be7-6262abafaaac" executionId="312b62d5-b507-4ac8-9fd1-699dd4e4d201" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6398c821-7922-4f12-de3a-3f4b603c031b" executionId="62b8f9d1-d41a-4b29-a548-850d8baa69ef" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2cb59c68-7478-a303-7be7-6262abafaaac" executionId="c0b1fd99-b914-4a93-8f42-43dc72cce179" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e0e96b94-b9c2-be40-153a-cce31f1033a5" executionId="0c66e619-deb6-4191-9dd2-d596e5e2064d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6990fcd4-5836-7764-7d74-40832d58923c" executionId="de9888cc-ba72-4a39-b57d-749604031d07" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="520a7f11-2718-cec4-c323-dd6831ade5b0" executionId="225a84c0-a76f-420f-b37d-09e40315c8cb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f78f14b6-cc7e-3135-7995-33336d831938" executionId="acae76ea-53d6-4cb3-bdae-5fcdf3eb4e53" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="abc5ed00-3847-fb7a-98dc-c02e080e46a3" executionId="6162c7b4-5efc-4ea4-8cf8-c73d754946ab" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="aedabcf3-a7b5-70ad-9eaa-c1277838f433" executionId="ef76b99a-7232-4f22-b842-568769bf3458" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a0927f17-e2ec-c0ad-a96c-96e6a936a897" executionId="657bdd0d-4196-4f3a-b648-8596cf32c5b0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="57c4f37c-a472-52d0-4a18-594f271a4d3c" executionId="c4f12345-268f-4b7b-a4b5-fd47ced7c03f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="12" executed="12" passed="12" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.4.3+1b45f5407b (64-bit .NET 5.0.17)&#xD;
+[xUnit.net 00:00:00.30]   Discovering: Battleship.Game.UnitTests&#xD;
+[xUnit.net 00:00:00.34]   Discovered:  Battleship.Game.UnitTests&#xD;
+[xUnit.net 00:00:00.34]   Starting:    Battleship.Game.UnitTests&#xD;
+[xUnit.net 00:00:00.46]   Finished:    Battleship.Game.UnitTests&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
